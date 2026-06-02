@@ -32,7 +32,7 @@ This framework replaces subjective, computationally expensive LLM-as-a-judge eva
 This framework requires **Python 3.10+** and a CUDA-enabled GPU (NVIDIA RTX 3050 or higher is recommended for full graph re-aggregations).
 
 \# 1\. Clone the repository  
-git clone \[https://github.com/YourUsername/Topological-PCG-Evaluator.git\](https://github.com/YourUsername/Topological-PCG-Evaluator.git)  
+git clone \[https://github.com/bjayasankareddy/Topological-PCG-Evaluator-Framework] 
 cd Topological-PCG-Evaluator
 
 \# 2\. Install core dependencies (CUDA 11.8 configuration)  
@@ -85,9 +85,9 @@ Due to standard version control file size limits, the massive 100k+ event JSON d
 
 Reviewers and researchers can natively generate the exact topological datasets locally using the provided generator scripts. Alternatively, the pre-compiled Ground Truth files and pretrained Epoch 4 weights can be downloaded from our open-source Zenodo/HuggingFace repository here:
 ## **Model**
-**jayasankarrr/Topological-Evaluation-of-LLM-Driven-PCG**
+**\[jayasankarrr/Topological-Evaluation-of-LLM-Driven-PCG]**
 ## **Dataset**
-**jayasankarrr/Topological-Evaluation-of-LLM-Driven-PCG**
+**\[jayasankarrr/Topological-Evaluation-of-LLM-Driven-PCG]**
 
 ## **License and Citation**
 
