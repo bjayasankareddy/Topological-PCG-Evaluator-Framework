@@ -84,8 +84,10 @@ python latency\_benchmark\_6gb.py
 Due to standard version control file size limits, the massive 100k+ event JSON datasets and final .pth model weights are not hosted directly in this Git repository.
 
 Reviewers and researchers can natively generate the exact topological datasets locally using the provided generator scripts. Alternatively, the pre-compiled Ground Truth files and pretrained Epoch 4 weights can be downloaded from our open-source Zenodo/HuggingFace repository here:
-
-**\[Insert Link to Zenodo/HuggingFace Here\]**
+## **Model**
+**jayasankarrr/Topological-Evaluation-of-LLM-Driven-PCG**
+## **Dataset**
+**jayasankarrr/Topological-Evaluation-of-LLM-Driven-PCG**
 
 ## **License and Citation**
 
