@@ -42,6 +42,8 @@ Evaluation/
                                      Dot-Product, Variable Depth).
     Run-Ablation-Study.py          — Trains all ablation baselines from scratch and evaluates
                                      against the test dataset to reproduce paper Table III.
+  required files/
+    model/Topological Evaluation.pth  
 ```
 
 ## Installation and Requirements
